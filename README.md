@@ -6,11 +6,11 @@ Este projeto realiza a automação completa de extração de registros de marca�
 
 ## ⚙️ Funcionalidades
 
-✅ Acesso automático ao portal da DIMEP
-✅ Preenchimento de filtros e data de pesquisa
-✅ Download automático de arquivos de marcação
-✅ Renomeação dos arquivos baixados
-✅ Envio via SFTP para o servidor remoto TOTVS
+✅ Acesso automático ao portal da DIMEP      
+✅ Preenchimento de filtros e data de pesquisa      
+✅ Download automático de arquivos de marcação      
+✅ Renomeação dos arquivos baixados        
+✅ Envio via SFTP para o servidor remoto TOTVS     
 ✅ Uso de variáveis seguras com `.env`
 ✅ Compatível com execução manual ou via agendamento (ex: Task Scheduler)
 
